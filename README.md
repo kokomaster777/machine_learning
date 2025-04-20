@@ -1,3 +1,3 @@
 # Iris ML Pipeline
 
-CI/CD pipeline using Jenkins for the Iris dataset.
+CI/CD Конвейер с использованием Jenkins для набора данных Iris.
